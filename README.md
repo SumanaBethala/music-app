@@ -1,2 +1,2 @@
-# music-app
+# musician-app
 
